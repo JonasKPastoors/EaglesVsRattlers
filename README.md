@@ -70,3 +70,6 @@ Hudson, S.-K. T. J., Cikara, M., & Sidanius, J. (2019). Preference for hierarchy
 Pastoors, J. K. (2020). The Opposite of Love: How parasocial interaction with NPCs can be enhanced through intergroup competition. researchgate.net. Retrieved June 16th, 2020, from https://www.researchgate.net/publication/342134174_The_Opposite_of_Love_How_parasocial_interaction_with_NPCs_can_be_enhanced_through_intergroup_competition. doi: 10.13140/RG.2.2.31175.52642.
 
 Santos C. P., van de Haterd J., Hutchinson K., Khan V.-J., Markopoulos P. (2017) GURaaS: An End-User Platform for Embedding Research Instruments into Games. In: Barbosa S., Markopoulos P., Paternò F., Stumpf S., Valtolina S. (eds) End-User Development. IS-EUD 2017. Lecture Notes in Computer Science, vol 10303. Springer, Cham.
+
+## Acknowledgements
+I would like to thank Giandomenico "gmilh" Lombardi for helping me debug, as well as upload the prototype and build.
